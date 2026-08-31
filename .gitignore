@@ -1,0 +1,9 @@
+# Executable files
+*.exe
+*.out
+
+# VS Code
+.vscode/
+
+# Competitive Programming Helper
+.cph/
